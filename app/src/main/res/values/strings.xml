@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PosyanduApp</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="btn_ortu">Masuk sebagai Orangtua</string>
+    <string name="btn_admin">Masuk sebagai Admin</string>
+    <string name="btn_logout_ortu">Log Out</string>
+    <string name="btn_logout_admin">Log Out</string>
+
+</resources>
